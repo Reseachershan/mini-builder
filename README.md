@@ -26,6 +26,6 @@ A small React + TypeScript project that lets you build forms on the fly. You can
 Clone the repo and install dependencies:
 
 ```bash
-git clone 
+git clone https://github.com/Reseachershan/mini-builder
 cd form-builder
 npm i
